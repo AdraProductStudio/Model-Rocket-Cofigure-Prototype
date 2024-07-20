@@ -756,7 +756,7 @@ const ProductDetails = () => {
                                         {
                                             updateButton ?
                                                 <div className="col-12 text-end mb-3">
-                                                    <button type="button" className="btn btn-success button-font-size rounded-2 py-1" onClick={() => setUpdateButton(false)}>Update</button>
+                                                    <button type="button" className="btn btn-primary button-font-size rounded-2 py-1" onClick={() => setUpdateButton(false)}>Update</button>
                                                 </div>
                                                 :
                                                 null
