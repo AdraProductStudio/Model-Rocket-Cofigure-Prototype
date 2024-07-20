@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Model-Rocket-Cofigure-Prototype/static/css/main.44304d51.css",
-    "main.js": "/Model-Rocket-Cofigure-Prototype/static/js/main.edfd6bb9.js",
+    "main.js": "/Model-Rocket-Cofigure-Prototype/static/js/main.a9e3ca08.js",
     "static/js/453.c8b04a05.chunk.js": "/Model-Rocket-Cofigure-Prototype/static/js/453.c8b04a05.chunk.js",
     "static/media/modelrocket_ai_logo.png": "/Model-Rocket-Cofigure-Prototype/static/media/modelrocket_ai_logo.72d9e24639f34da5f8f9.png",
     "static/media/businessDeal.png": "/Model-Rocket-Cofigure-Prototype/static/media/businessDeal.bb1a251c1089d4599038.png",
@@ -13,11 +13,11 @@
     "static/media/slick.woff": "/Model-Rocket-Cofigure-Prototype/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Model-Rocket-Cofigure-Prototype/index.html",
     "main.44304d51.css.map": "/Model-Rocket-Cofigure-Prototype/static/css/main.44304d51.css.map",
-    "main.edfd6bb9.js.map": "/Model-Rocket-Cofigure-Prototype/static/js/main.edfd6bb9.js.map",
+    "main.a9e3ca08.js.map": "/Model-Rocket-Cofigure-Prototype/static/js/main.a9e3ca08.js.map",
     "453.c8b04a05.chunk.js.map": "/Model-Rocket-Cofigure-Prototype/static/js/453.c8b04a05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44304d51.css",
-    "static/js/main.edfd6bb9.js"
+    "static/js/main.a9e3ca08.js"
   ]
 }
